@@ -1,4 +1,4 @@
-package com.bootconfigtest;
+package com.xxx.xxx;
 
 import junit.framework.Test;
 import junit.framework.TestCase;
